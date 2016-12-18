@@ -45,6 +45,7 @@ images:
   - image_full_path: /images/fulls/01.jpg
     image_thumb_path: /images/thumbs/01.jpg
     title: You really got me
+    width: 282
   - image_full_path: /images/fulls/02.jpg
     image_thumb_path: /images/thumbs/02.jpg
     title: Ad Infinitum
@@ -66,3 +67,45 @@ images:
   - image_full_path: /images/fulls/08.jpg
     image_thumb_path: /images/thumbs/08.jpg
     title: The Spectators
+  - image_full_path: /images/fulls/01.jpg
+    image_thumb_path: /images/thumbs/01.jpg
+    title: You really got me
+  - image_full_path: /images/fulls/02.jpg
+    image_thumb_path: /images/thumbs/02.jpg
+    title: Ad Infinitum
+  - image_full_path: /images/fulls/03.jpg
+    image_thumb_path: /images/thumbs/03.jpg
+    title: Different.
+  - image_full_path: /images/fulls/04.jpg
+    image_thumb_path: /images/thumbs/04.jpg
+    title: Elysium
+  - image_full_path: /images/fulls/05.jpg
+    image_thumb_path: /images/thumbs/05.jpg
+    title: Kingdom of the Wind
+  - image_full_path: /images/fulls/06.jpg
+    image_thumb_path: /images/thumbs/06.jpg
+    title: The Pursuit
+  - image_full_path: /images/fulls/07.jpg
+    image_thumb_path: /images/thumbs/07.jpg
+    title: Boundless
+  - image_full_path: /images/fulls/08.jpg
+    image_thumb_path: /images/thumbs/08.jpg
+    title: The Spectators
+  - image_full_path: /images/fulls/09.jpg
+    image_thumb_path: /images/thumbs/09.jpg
+    title: Winter Wonderland
+    width: 550
+
+# Footer info
+footer: This is <strong>Parallelism</strong>, a responsive portfolio site template by <a href="http://html5up.net">HTML5 UP</a>. Free for personal<br />
+        and commercial use under the <a href="http://html5up.net/license">Creative Commons Attribution</a> license.
+
+# social networks
+social:
+  twitter: https://twitter.com/AgneNevulyte
+  linkedin: https://www.linkedin.com/in/agne-nevulyte-511895106?trk=hp-identity-name
+  facebook: https://www.facebook.com/agne.nevulyte
+  instagram: https://www.instagram.com/agne.nev/
+  pinterest: https://www.pinterest.com/agnenevulyte/
+  mail: mailto:agne.nevulyte@gmail.com
+
