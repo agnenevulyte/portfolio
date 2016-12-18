@@ -42,12 +42,12 @@ gems:
 
 #  images
 images:
-  - image_full_path: /images/fulls/01.jpg
-    image_thumb_path: /images/thumbs/01.jpg
+  - image_full_path: images/fulls/01.jpg
+    image_thumb_path: images/thumbs/01.jpg
     title: You really got me
     width: 282
-  - image_full_path: /images/fulls/02.jpg
-    image_thumb_path: /images/thumbs/02.jpg
+  - image_full_path: images/fulls/02.jpg
+    image_thumb_path: images/thumbs/02.jpg
     title: Ad Infinitum
   - image_full_path: /images/fulls/03.jpg
     image_thumb_path: /images/thumbs/03.jpg
