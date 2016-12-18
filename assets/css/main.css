@@ -696,3 +696,32 @@
 				border-left: solid 0.75em rgba(64, 64, 64, 0);
 				border-right: solid 0.75em rgba(64, 64, 64, 0);
 			}
+
+/* biography/index.html*/
+#biography {
+	color: grey;
+	padding-top: 6.5cm;
+	padding-left: 3.5cm;
+}
+.bio-info {
+	color: black;
+}
+
+.click-on-link {
+  color: blue;
+}
+
+.click-on-link:visited {
+    color: #556B2F;
+}
+
+.click-on-link:hover {
+    color: black;
+}
+
+.click-on-link:active {
+    color: red;
+}
+
+
+
