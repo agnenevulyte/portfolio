@@ -1,14 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: page.lang | default: 'en' }}">
-
-  {% include head.html %}
-
-  <body>
-
-    <main class="main" aria-label="Content">
-      {{ content }}
-    </main>
-
-  </body>
-
+<!--puslapio isdestymas-->
+<html>
+{% include head.html %}
+<body>
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+</body>
 </html>
