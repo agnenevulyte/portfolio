@@ -16,7 +16,7 @@ layout: default
         {% for image in site.images %}
             <article class="item thumb" data-width="{% if image.width %}{{ image.width }}{% else %}282{% endif %}">
                 <h2>{{ image.title }}</h2>
-                <a href="{{ image.image_full_path }}" class="image"><img src="{{ image.image_thumb_path }}" alt=""></a>
+                <a href="/{{ site.baseurl}}/{{ image.image_full_path }}" class="image"><img src="{{ image.image_thumb_path }}" alt=""></a>
             </article>
         {% endfor %}
     
